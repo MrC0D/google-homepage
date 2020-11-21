@@ -1,0 +1,32 @@
+#top{
+    display: flex;
+    margin: 2em;
+}
+
+#top div{
+    /*flex-direction: row;*/
+    align-items: flex-end;
+}
+
+
+#low2{
+    display: flex;
+}
+
+#mid{
+    padding-bottom: 36em;
+    align-items: center;
+}
+
+
+p{
+    width: 10%;
+    flex-direction: row;
+    margin: 1em;
+
+}
+
+#search{
+    width: 35%;
+    align-self: center;
+}
